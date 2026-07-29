@@ -6,8 +6,8 @@
 <h1 align="center">Hi, I’m ⟪Rapeepat Promlum⟫ <img height="30" src="https://em-content.zobj.net/thumbs/120/apple/354/waving-hand_1f44b.png" /></h1>
 
 <p align="center">
-  <strong>Full-stack Engineer • Tech Educator • Lifelong Learner</strong><br/>
-  <em>“Turning ideas into delightful, scalable software.”</em>
+  <strong>IT Student of Maejo University><br/>
+  <em>“Building things across mobile and web”</em>
 </p>
 
 ---
