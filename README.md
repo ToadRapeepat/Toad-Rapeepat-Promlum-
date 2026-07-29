@@ -43,7 +43,7 @@
 | **Board Game Café Management System** | JSP · Bootstrap | ระบบจัดการร้านบอร์ดเกมคาเฟ่ | [Repo](#) |
 | **Yakult Delivery Management System** | Dart / Flutter | ระบบจัดการจัดส่งสำหรับสาวยาคูลท์และลูกค้า | [Repo](#) |
 | **Automated Software Testing** | Robot Framework | ทดสอบระบบอัตโนมัติด้วย Browser Library และ Excel | [Repo](#) |
-_Add 2–4 projects max. Each row should fit on one screen._
+
 
 ---
 
