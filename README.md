@@ -66,9 +66,11 @@ _Add 2–4 projects max. Each row should fit on one screen._
 ## 🤝 Let’s Connect
 > **“Great products are built by great people working together.”**
 
-- 💌 Email: ⟪toadrapeepat47@gmail.com⟫  
-- 🐦 DM me on [Facebook](⟪https://www.facebook.com/toad.rappepat/⟫)
-[Instagram](⟪https://www.instagram.com/toad_rapeepat/⟫)
+- 💌 Email: [toadrapeepat47@gmail.com](mailto:toadrapeepat47@gmail.com)
+- 📘 Facebook: [DM me on Facebook](https://www.facebook.com/toad.rappepat/)
+- 📸 Instagram: [DM me on Instagram](https://www.instagram.com/toad_rapeepat/)
+- 📞 Call Me: 0948364990
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=⟪USERNAME⟫&style=flat-square" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Toadkung&style=flat-square" alt="profile views"/>
 </p>
