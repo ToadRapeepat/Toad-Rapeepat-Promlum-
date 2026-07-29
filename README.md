@@ -45,15 +45,6 @@
 | **Automated Software Testing** | Robot Framework | ทดสอบระบบอัตโนมัติด้วย Browser Library และ Excel | [Repo](https://github.com/ToadRapeepat/TestProject) |
 
 
----
-
-## ✍🏻 Recent Blog / Talks
-<!-- GH Action can automate this section; placeholder for manual list -->
-- ⟪May 2025⟫ • **Observable-Ready Dashboards** at BangkokJS  
-- ⟪Apr 2025⟫ • Published *“Scalable Monorepo Patterns”* on Medium  
-- ⟪Mar 2025⟫ • Panel speaker at DevCon Asia: *Modern DevOps*
-
----
 
 ## 📈 GitHub Stats
 <div align="center">
