@@ -39,11 +39,10 @@
 
 ## 📌 Featured Projects
 | Project | Tech | Highlights | Links |
-|---------|------|-----------|-------|
-| **⟪Project A⟫** | React · Node · PostgreSQL | Real-time dashboard handling 100k req/min | [Repo](⟪url⟫) · [Live](⟪url⟫) |
-| **⟪Project B⟫** | Python · FastAPI | Deployed on AWS Lambda; 99.9% uptime | [Repo](⟪url⟫) |
-| **⟪Project C⟫** | Figma · TypeScript | Design System adopted by 3 teams | [Case Study](⟪url⟫) |
-
+|---------|------|------------|-------|
+| **Board Game Café Management System** | JSP · Bootstrap | ระบบจัดการร้านบอร์ดเกมคาเฟ่ | [Repo](#) |
+| **Yakult Delivery Management System** | Dart / Flutter | ระบบจัดการจัดส่งสำหรับสาวยาคูลท์และลูกค้า | [Repo](#) |
+| **Automated Software Testing** | Robot Framework | ทดสอบระบบอัตโนมัติด้วย Browser Library และ Excel | [Repo](#) |
 _Add 2–4 projects max. Each row should fit on one screen._
 
 ---
