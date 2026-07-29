@@ -27,27 +27,27 @@
 
 ## 🧰 Tech Stack & Tools
 
+**Core stack — Full-Stack Web**
+
 <div align="center">
 
-
-
 | Domain | Primary | Comfortable | Currently Exploring |
-
 |--------|---------|-------------|---------------------|
-
-| Back-end | ![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white) | | ![RESTful API](https://img.shields.io/badge/RESTful_API-005C84?logo=safari&logoColor=white) |
-
-| Data | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) | | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) |
-
-| Mobile | | ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white) | |
-
 | Front-end | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) | ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white) |
-
-| Game / VR | | | ![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white) |
-
+| Back-end | ![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white) | | ![RESTful API](https://img.shields.io/badge/RESTful_API-005C84?logo=safari&logoColor=white) |
+| Database | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) | | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) |
 | Tools | ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) | ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) |
 
+</div>
 
+**Also comfortable with — Mobile & Game Dev**
+
+<div align="center">
+
+| Domain | Comfortable |
+|--------|-------------|
+| Mobile | ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white) |
+| Game / VR | ![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white) |
 
 </div>
 
