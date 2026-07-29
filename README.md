@@ -62,9 +62,6 @@
 ---
 
 ## 🤝 Let's Connect
-
-> **"Great products are built by great people working together."**
-
 - 💌 Email: [toadrapeepat47@gmail.com](mailto:toadrapeepat47@gmail.com)
 - 📘 Facebook: [DM me on Facebook](https://www.facebook.com/toad.rappepat/)
 - 📸 Instagram: [DM me on Instagram](https://www.instagram.com/toad_rapeepat/)
