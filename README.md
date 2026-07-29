@@ -13,10 +13,11 @@
 ---
 
 ## 🚀 About Me
-- 🌱  I’m currently learning **⟪New Tech/Framework⟫**  
-- 🛠  Daily driver stack: **⟪Key Languages / Frameworks⟫**  
-- 🎯  2025 Goal: **⟪High-impact goal (e.g., ship an OSS library)⟫**  
-- 📫  Reach me: **⟪toadrapeepat47@gmail.com⟫** 
+
+- 🎓 Studying Information Technology at the Faculty of Science, Maejo University
+- 💻 Learning full-stack development through personal projects and coursework
+- 📍 Based in Thailand
+- 📫 Reach me: [toadrapeepat47@gmail.com](mailto:toadrapeepat47@gmail.com)
 
 ---
 
