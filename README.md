@@ -41,7 +41,7 @@
 | Project | Tech | Highlights | Links |
 |---------|------|------------|-------|
 | **Board Game Café Management System** | JSP · Bootstrap | ระบบจัดการร้านบอร์ดเกมคาเฟ่ | [Repo](https://github.com/Fabianbk/boardgame-cafe-management-system) |
-| **Yakult Delivery Management System** | Dart / Flutter | ระบบจัดการจัดส่งสำหรับสาวยาคูลท์และลูกค้า | [Repo](#) |
+| **Yakult Delivery Management System** | Dart / Flutter | ระบบจัดการจัดส่งสำหรับสาวยาคูลท์และลูกค้า | [Repo](https://github.com/ToadRapeepat/Yakult-Delivery-Management-System-) |
 | **Automated Software Testing** | Robot Framework | ทดสอบระบบอัตโนมัติด้วย Browser Library และ Excel | [Repo](#) |
 
 
