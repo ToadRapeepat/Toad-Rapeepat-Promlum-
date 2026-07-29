@@ -66,10 +66,9 @@ _Add 2–4 projects max. Each row should fit on one screen._
 ## 🤝 Let’s Connect
 > **“Great products are built by great people working together.”**
 
-- 💌 Email: ⟪email@example.com⟫  
-- 📝 Schedule a coffee chat: ⟪Calendly link⟫  
-- 🐦 DM me on [X/Twitter](⟪url⟫)
-
+- 💌 Email: ⟪toadrapeepat47@gmail.com⟫  
+- 🐦 DM me on [Facebook](⟪https://www.facebook.com/toad.rappepat/⟫)
+[Instagram](⟪https://www.instagram.com/toad_rapeepat/⟫)
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=⟪USERNAME⟫&style=flat-square" alt="profile views"/>
 </p>
