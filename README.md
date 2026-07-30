@@ -47,7 +47,7 @@
 | Project | Tech | Highlights | Link |
 |---------|------|------------|------|
 | **Board Game Café Management System** *(group project)* | JSP · Bootstrap | Web app for managing a board-game café's day-to-day operations | [Repo](https://github.com/Fabianbk/boardgame-cafe-management-system) |
-| **Yakult Delivery Management System** | Flutter · Dart | Mobile app supporting delivery management between Yakult sales agents and their customers | [Repo](https://github.com/ToadRapeepat/Yakult-Delivery-Management-System-) |
+| **Yakult Delivery Management System** | Flutter · Dart · Spring Boot | Mobile app supporting delivery management between Yakult sales agents and their customers | [Repo](https://github.com/ToadRapeepat/Yakult-Delivery-Management-System-) |
 | **Automated Software Testing** | Robot Framework | Automated test suite built with the Browser Library, with test data managed in Excel | [Repo](https://github.com/ToadRapeepat/TestProject) |
 
 ---
