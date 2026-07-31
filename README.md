@@ -50,16 +50,7 @@
 | **Yakult Delivery Management System** | Flutter · Dart · Spring Boot | Mobile app supporting delivery management between Yakult sales agents and their customers | [Repo](https://github.com/ToadRapeepat/Yakult-Delivery-Management-System-) |
 | **Automated Software Testing** | Robot Framework | Automated test suite built with the Browser Library, with test data managed in Excel | [Repo](https://github.com/ToadRapeepat/TestProject) |
 
----
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ToadRapeepat&show_icons=true&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ToadRapeepat&layout=compact&hide_border=true" />
-</div>
-
----
 
 ## 🤝 Let's Connect
 - 💌 Email: [toadrapeepat47@gmail.com](mailto:toadrapeepat47@gmail.com)
